@@ -16,6 +16,9 @@ While Rails certainly gives you a loooot out of the box, it takes a bit of time 
   - Debug and explore with `pry-byebug`
   - Easy test iteration: `guard`, `guard-minitest`
     - Customized `Guardfile` to get you rolling
+  - Know what you're working with: `annotate`
+    - Adds handy list of DB columns to models (run `annotate` or do a migration)
+    - Adds list of routes to `config/routes.rb`
 
 ## Usage
 
